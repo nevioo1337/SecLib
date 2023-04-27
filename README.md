@@ -8,6 +8,5 @@ There is still much room for improvement. Initially, it was a project aimed at s
 - Implement wildcard support for the signature scanner to increase its flexibility and usability.
 - Enhance module enumeration to provide a more comprehensive list of loaded modules in the system.
 - Develop a kernel driver for improved system-level access and control.
-- Implement integrity checks to ensure that system files and configurations have not been tampered with or modified.
-- Implement file hash checks to detect any unauthorized changes to critical system files.
-- Improve grammar and sentence structure throughout the project documentation and code comments.
+- Implement memory integrity checks.
+- Implement file hash checks.
