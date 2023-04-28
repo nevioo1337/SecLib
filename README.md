@@ -6,7 +6,7 @@ There is still much room for improvement. Initially, it was a project aimed at s
 
 ## Todo
 - Implement wildcard support for the signature scanner to increase its flexibility and usability.
-- Module enumeration to provide a more comprehensive list of loaded modules.
+- Module enumeration.
 - Develop a kernel driver for improved system-level access and control.
 - Implement memory integrity checks.
 - Implement file hash checks.
